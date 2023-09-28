@@ -1,0 +1,22 @@
+.wrapper {
+    width: 250px;
+    height: 35px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: thin solid rgba(0, 0, 0, 0.1);
+}
+
+.pageNumber {
+    width: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.active {
+    background-color: slategray;
+    color: white;
+}

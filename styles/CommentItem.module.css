@@ -1,0 +1,7 @@
+.wrapper {
+    border-bottom: thin solid rgba(0, 0, 0, 0.1);
+    border-top: thin solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

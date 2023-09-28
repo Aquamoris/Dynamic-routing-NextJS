@@ -1,0 +1,25 @@
+.wrapper {
+    min-height: 80vh;
+    width: 600px;
+    margin: 5px auto 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F5;
+}
+
+.inputWrapper {
+    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    padding: 5px;
+}
+
+.input {
+    width: 450px;
+    height: 40px;
+    padding: 5px;
+    font-size: 16px;
+    margin: 5px 0;
+    border: thin solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
